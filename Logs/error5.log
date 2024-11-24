@@ -1,0 +1,24 @@
+[18:05:26] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:25} INFO - *********TEST002**********
+[18:05:26] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:26} INFO - *********Verify Login**********
+[18:05:36] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:58} INFO - **********Passed********
+[18:06:24] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:25} INFO - *********TEST002**********
+[18:06:24] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:26} INFO - *********Verify Login**********
+[18:07:32] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:25} INFO - *********TEST002**********
+[18:07:32] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:26} INFO - *********Verify Login**********
+[18:07:46] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:56} INFO - **********Passed********
+[17:48:17] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:25} INFO - *********TEST002**********
+[17:48:17] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:26} INFO - *********Verify Login**********
+[17:50:06] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:56} INFO - **********Passed********
+[18:41:12] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:25} INFO - *********TEST002**********
+[18:41:12] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:26} INFO - *********Verify Login**********
+[18:46:03] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:25} INFO - *********TEST002**********
+[18:46:03] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:26} INFO - *********Verify Login**********
+[18:50:21] {C:\Users\panra\PycharmProjects\AutomationFramework\.venv\Lib\site-packages\urllib3\connectionpool.py:870} WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=51647): Read timed out. (read timeout=120)")': /session/17fd6528998a4fd8ba7b7154b9d71fab/title
+[18:58:54] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:25} INFO - *********TEST002**********
+[18:58:54] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:26} INFO - *********Verify Login**********
+[19:00:19] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:55} INFO - **********Passed********
+[19:01:36] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:25} INFO - *********TEST002**********
+[19:01:36] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:26} INFO - *********Verify Login**********
+[19:05:16] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:51} INFO - **********Passed********
+[19:29:34] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:28} INFO - *********TEST002**********
+[19:29:34] {C:\Users\panra\PycharmProjects\AutomationFramework\TestCases\test_Login_DD.py:29} INFO - *********Verify Login**********
